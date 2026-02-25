@@ -51,6 +51,6 @@ Animal shelter landing page.
 
 ## 📫 How to reach me
 
-[LinkedIn](https://www.linkedin.com/in/oleksandr-furman-0a99a1372/)  
+[LinkedIn](https://www.linkedin.com/in/oleksandr-furman-/)  
 [Telegram](https://t.me/epoeitos)  
 [:email:](mailto:sasha21100@ukr.net)
